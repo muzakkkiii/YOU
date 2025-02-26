@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+div {
+    margin: 50px;
+}
+
+h1 {
+    color: black;
+}
+
+.container_nav {
+    background-color: black;
+    padding: 20px ;
+}
+
+.ul_nav {
+    list-style: none;
+    padding: 0;
+}
+
+.li_nav {
+    display: inline;
+    margin: 0 15px;
+    color: white;
+    cursor: pointer;
+}
+
+.h2_nav {
+    text-align: left;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+div h2 {
+    color: black;
+}
+
+
